@@ -19,12 +19,12 @@
 
 Most repositories focus entirely on Layer 3 or Layer 4. They patch the code, but the architecture remains fragile because it ignores the human variable. 
 
-My focus is **Layer 9: The Psychological Determinism of Systems**. As a professional bridging the gap between Psychology (Universidad Nacional de Córdoba - UNC) and Infrastructure Architecture, this space is dedicated to the **OMEGA-ULTRA® Protocol**: a framework where cognitive logic enforces high-performance system hardening.
+My focus is **Layer 9: The Psychological Determinism of Systems**. Como **Estudiante Avanzada de Psicología en la Universidad Nacional de Córdoba (UNC) —cursando el tramo final de la carrera—** y especialista en Arquitectura de Infraestructura, este espacio está dedicado al **OMEGA-ULTRA® Protocol**: un framework donde la lógica cognitiva aplicada impone un hardening de sistemas de alto rendimiento.
 
 ### 🕵️ OPERATOR IDENTITY & NODE STATUS
 * **NAME:** Carolina Gabriela Mattos®™
 * **FIELD:** Infrastructure Engineering & Systems Hardening
-* **ACADEMIC:** Estudiante Avanzada de Psicología (Tramo Final) @ UNC (Infrastructure Optimization Specialist)
+* **ACADEMIC:** Estudiante Avanzada de Psicología (Tramo Final) @ Universidad Nacional de Córdoba (UNC)
 * **STATUS:** [ SOVEREIGN NODE ACTIVE / KERNEL LOCKED ]
 * **CORE FOCUS:** Deep Registry Manipulation, Process Sealing, & Latency Auditing (31ms RTT).
 
@@ -74,6 +74,6 @@ I do not build standard "IT support" scripts. The code and logs you will find he
 > ### 🛑 [ TERMINAL NODE / COGNITIVE FIREWALL DIRECTIVE ]
 > **Technicians debate opinions; Sovereign Architects enforce deterministic protocols.** > My bandwidth is strictly reserved for high-performance execution. Unless your critique is backed by a verifiable sub-31ms RTT packet trace or a forensic kernel audit, your input is classified as cognitive entropy and will be dropped at the firewall. Standard "IT support" mentalities are incompatible with a $2.5M Sovereign Intellectual Property® framework. 
 > 
-> If you are here to question the psychological methodology® rather than audit the deterministic results, your cognitive latency is already too high to interface with this node.
+> If you are here to question the psychological methodology® de una **Estudiante Avanzada de la UNC (Tramo Final)** en lugar de auditar los resultados deterministas, tu latencia cognitiva es demasiado alta para interactuar con este nodo.
 > 
 > **[ END OF TRANSMISSION. THE ARCHITECTURE STANDS. ]**
