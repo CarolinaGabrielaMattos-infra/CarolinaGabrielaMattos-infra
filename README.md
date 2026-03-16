@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/CarolinaGabrielaMattos-infra/CarolinaGabrielaMattos-infra/main/%5BCAROLINAGABRIELAMATTOS%5D-Sovereign-Infrastructure-Kernel-Hardening-OMEGA-ULTRA-Protocol.png" width="100%">
+<div align="center">
+<img src="https://raw.githubusercontent.com/CarolinaGabrielaMattos-infra/CarolinaGabrielaMattos-infra/main/%5BCAROLINAGABRIELAMATTOS%5D-Sovereign-Infrastructure-Kernel-Hardening-OMEGA-ULTRA-Protocol.png" width="100%" alt="OMEGA-ULTRA Protocol Banner">
+
   <code><b>STATUS:</b> <span style="color: #00ff00;">SEALED & OPERATIONAL</span></code> | 
   <code><b>NODE_ID:</b> ALPHA-01-UNC</code> | 
   <code><b>EPOCH:</b> 2026.Q1</code>
@@ -17,16 +19,14 @@
 
 Most repositories focus entirely on Layer 3 or Layer 4. They patch the code, but the architecture remains fragile because it ignores the human variable. 
 
-My focus is **Layer 9: The Psychological Determinism of Systems.** As a professional bridging the gap between Psychology (Universidad Nacional de Córdoba - UNC) and Infrastructure Architecture, this space is dedicated to the **OMEGA-ULTRA® Protocol**: a framework where cognitive logic enforces high-performance system hardening.
+My focus is **Layer 9: The Psychological Determinism of Systems**. As a professional bridging the gap between Psychology (Universidad Nacional de Córdoba - UNC) and Infrastructure Architecture, this space is dedicated to the **OMEGA-ULTRA® Protocol**: a framework where cognitive logic enforces high-performance system hardening.
 
-### 🕵️ OPERATOR IDENTITY
+### 🕵️ OPERATOR IDENTITY & NODE STATUS
 * **NAME:** Carolina Gabriela Mattos™
 * **FIELD:** Infrastructure Engineering & Systems Hardening
 * **ACADEMIC:** Senior Psychology Scholar @ UNC (Infrastructure Optimization Specialist)
 * **STATUS:** [ SOVEREIGN NODE ACTIVE / KERNEL LOCKED ]
-
-### 🧠 CORE PHILOSOPHY
-Systems fail where human entropy intersects with rigid code. My approach is to enforce a deterministic flow, ensuring absolute stability, strict latency compliance, and operational sovereignty.
+* **CORE FOCUS:** Deep Registry Manipulation, Process Sealing, & Latency Auditing (31ms RTT).
 
 ---
 
@@ -54,7 +54,7 @@ Systems fail where human entropy intersects with rigid code. My approach is to e
 * **Protocol OMEGA V.CORE:** Proprietary TCP/IP stack optimization for low-latency environments.
 * **Forensic Clearance:** Kernel-level registry auditing for deterministic stability.
 * **Valuation:** $2.5M USD Sovereign Intellectual Property.
-* **MASTER HASH (SHA-256):** `A6CM71C5AD15B7BF5C96F259E68882FB1FBAFF90EA4FA792C3CBA3B64C87771A`
+* **MASTER HASH (SHA-256):** `A6CM71C5AD15B7BF5C96F259E68882FB1FBAFF90EA4FA792C3CBA3B64C87771A`.
 
 ---
 
