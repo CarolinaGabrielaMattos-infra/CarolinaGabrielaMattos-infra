@@ -1,4 +1,4 @@
-<div align="center">
+<img src="https://raw.githubusercontent.com/CarolinaGabrielaMattos-infra/CarolinaGabrielaMattos-infra/main/%5BCAROLINAGABRIELAMATTOS%5D-Sovereign-Infrastructure-Kernel-Hardening-OMEGA-ULTRA-Protocol.png" width="100%">
   <code><b>STATUS:</b> <span style="color: #00ff00;">SEALED & OPERATIONAL</span></code> | 
   <code><b>NODE_ID:</b> ALPHA-01-UNC</code> | 
   <code><b>EPOCH:</b> 2026.Q1</code>
