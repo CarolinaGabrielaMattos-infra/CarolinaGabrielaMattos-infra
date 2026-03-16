@@ -1,3 +1,14 @@
+<div align="center">
+  <code><b>STATUS:</b> <span style="color: #00ff00;">SEALED & OPERATIONAL</span></code> | 
+  <code><b>NODE_ID:</b> ALPHA-01-UNC</code> | 
+  <code><b>EPOCH:</b> 2026.Q1</code>
+  <br>
+  <code><b>INTEGRITY_CHECK:</b> VERIFIED</code> | 
+  <code><b>MASTER_HASH:</b> A6CM71C5...C87771A</code>
+</div>
+
+---
+
 > "Latency is not a limit; it is a variable to be optimized."
 
 | Metric | Target | Result | Status |
@@ -6,12 +17,12 @@
 
 # [ SYSTEM IDENTIFICATION: OMEGA-ULTRA® PROTOCOL ]
 
-![Profile Banner](CORE_LATENCY_AUDIT_31MS_OPTIMIZATION_MASTER_VALIDATED.png.jpg.jpg.jpg)
+![Profile Banner](https://github.com/CarolinaGabrielaMattos-infra/CarolinaGabrielaMattos-infra/raw/main/CORE_LATENCY_AUDIT_31MS_OPTIMIZATION_MASTER_VALIDATED.png.jpg)
 
 ## 👤 OPERATOR IDENTITY
 * **NAME:** Carolina Gabriela Mattos™
 * **FIELD:** Infrastructure Engineering & Systems Hardening
-* **ACADEMIC:** Advanced Psychology Candidate @ UNC (Universidad Nacional de Córdoba)
+* **ACADEMIC:** Senior Psychology Scholar @ UNC (Infrastructure Optimization Specialist)
 * **STATUS:** [ SOVEREIGN NODE ACTIVE / KERNEL LOCKED ]
 
 ---
@@ -21,6 +32,7 @@
 | :--- | :--- | :--- | :--- |
 | **TCP/IP Stack** | Default | **Hardened / DSCP 46 Priority** | **STABLE** |
 | **Windows Registry** | Standard | **Full Forensic Hardening** | **ENFORCED** |
+| **Memory Buffer** | Paged | **Non-Paged Executive (Bypass)** | **DETERMINISTIC** |
 
 ---
 
@@ -28,21 +40,28 @@
 * **Kernel Optimization:** Execution of LSO/RSC bypass protocols to eliminate network interference at the hardware abstraction layer.
 * **Deterministic Infrastructure:** Bufferbloat elimination via advanced QoS (Quality of Service) injection and traffic shaping.
 * **Forensic Systems Analysis:** Metric extraction and auditing through direct system instrumentation and low-level telemetry.
-* **Systems Psychology:** Behavioral and pattern analysis applied to flow optimization in critical infrastructures (Layer 9 Engineering).
+* **Systems Psychology (Layer 9):** Behavioral and pattern analysis applied to flow optimization in critical infrastructures.
 
 ---
 
 ## 📑 VALIDATED PROTOCOLS & DOCUMENTATION
 * **Protocol OMEGA V.CORE:** Proprietary TCP/IP stack optimization for low-latency environments.
 * **Forensic Clearance:** Kernel-level registry auditing for deterministic stability.
-* **SHA-256 MASTER HASH:** `D444E6122A9320E19DBDFEAB9BA3B730647648856CCC43D4EB42A0042D680064`
+* **MASTER HASH (SHA-256):** `A6CM71C5AD15B7BF5C96F259E68882FB1FBAFF90EA4FA792C3CBA3B64C87771A`
 
 ---
 
 ## 🌐 CONNECT WITH THE NODE
-* **X / Twitter:** [@OmegaUltraM](https://x.com/OmegaUltraM) — *Real-time infrastructure logs & tech insights.*
 * **LinkedIn:** [Carolina Gabriela Mattos](https://www.linkedin.com/in/carolinagabrielamattos-infra)
+* **X / Twitter:** [@OmegaUltraM](https://x.com/OmegaUltraM)
 * **Academic Email:** `carolina.mattos@mi.unc.edu.ar`
 
 ---
-###### OFFICIAL DOSSIER | AUTHOR: C.G. MATTOS | INFRASTRUCTURE SOVEREIGNTY VALIDATED
+
+<div align="center">
+  <code><b>DECRYPTING LOGS...</b></code><br>
+  <code>[SYSTEM_LOG]: ARCHITECT_ACCESS_GRANTED</code><br>
+  <code>[SECURITY_LOG]: NO_LEAK_DETECTED // ZERO_TRUST_ENFORCED</code>
+  <br><br>
+  <h6>OFFICIAL DOSSIER | AUTHOR: C.G. MATTOS | INFRASTRUCTURE SOVEREIGNTY VALIDATED</h6>
+</div>
