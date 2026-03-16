@@ -1,5 +1,3 @@
-<img src="[CAROLINAGABRIELAMATTOS]-Sovereign-Infrastructure-Kernel-Hardening-OMEGA-ULTRA-Protocol.png" alt="OMEGA-ULTRA Protocol" width="100%">
-
 <div align="center">
   <code><b>STATUS:</b> <span style="color: #00ff00;">SEALED & OPERATIONAL</span></code> | 
   <code><b>NODE_ID:</b> ALPHA-01-UNC</code> | 
@@ -15,9 +13,11 @@
 
 # [ ⚡ ] CAROLINA GABRIELA MATTOS | Sovereign Infrastructure & Systems Psychology
 
+> *"I built this node not just to deploy code, but to connect with minds that refuse to accept the standard. If you are here because you value deep optimization and see the human variable behind every system failure, we already speak the same language. Welcome."*
+
 Most repositories focus entirely on Layer 3 or Layer 4. They patch the code, but the architecture remains fragile because it ignores the human variable. 
 
-Welcome to my personal node. My focus is **Layer 9: The Psychological Determinism of Systems.** As a professional bridging the gap between Psychology (Universidad Nacional de Córdoba - UNC) and Infrastructure Architecture, this space is dedicated to the **OMEGA-ULTRA® Protocol**: a framework where cognitive logic enforces high-performance system hardening.
+My focus is **Layer 9: The Psychological Determinism of Systems.** As a professional bridging the gap between Psychology (Universidad Nacional de Córdoba - UNC) and Infrastructure Architecture, this space is dedicated to the **OMEGA-ULTRA® Protocol**: a framework where cognitive logic enforces high-performance system hardening.
 
 ### 🕵️ OPERATOR IDENTITY
 * **NAME:** Carolina Gabriela Mattos™
