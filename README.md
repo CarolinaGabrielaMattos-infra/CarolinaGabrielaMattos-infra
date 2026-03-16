@@ -24,7 +24,7 @@ My focus is **Layer 9: The Psychological Determinism of Systems**. As a professi
 ### 🕵️ OPERATOR IDENTITY & NODE STATUS
 * **NAME:** Carolina Gabriela Mattos®™
 * **FIELD:** Infrastructure Engineering & Systems Hardening
-* **ACADEMIC:** Senior Psychology Scholar @ UNC (Infrastructure Optimization Specialist)
+* **ACADEMIC:** Estudiante Avanzada de Psicología (Tramo Final) @ UNC (Infrastructure Optimization Specialist)
 * **STATUS:** [ SOVEREIGN NODE ACTIVE / KERNEL LOCKED ]
 * **CORE FOCUS:** Deep Registry Manipulation, Process Sealing, & Latency Auditing (31ms RTT).
 
