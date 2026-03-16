@@ -5,7 +5,7 @@
 ## 👤 OPERATOR IDENTITY
 * **NAME:** Carolina Gabriela Mattos™
 * **FIELD:** Infrastructure Engineering & Systems Hardening
-* **ACADEMIC:** Advanced Psychology Candidate @UNC (Universidad Nacional de Córdoba)
+* **ACADEMIC:** Advanced Psychology Candidate @ UNC (Universidad Nacional de Córdoba)
 * **STATUS:** [ SOVEREIGN NODE ACTIVE / KERNEL LOCKED ]
 
 ---
@@ -37,8 +37,8 @@
 ---
 
 ## 🌐 CONNECT WITH THE NODE
+* **X / Twitter:** [@OmegaUltraM](https://x.com/OmegaUltraM) — *Real-time infrastructure logs & tech insights.*
 * **LinkedIn:** [Carolina Gabriela Mattos](https://www.linkedin.com/in/carolinagabrielamattos-infra)
-* **Medium:** [Technical Write-ups & Forensic Audits](TU_LINK_DE_MEDIUM)
 * **Email:** `carolina.mattos@mi.unc.edu.ar`
 
 ---
