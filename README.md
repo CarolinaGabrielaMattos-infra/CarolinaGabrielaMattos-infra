@@ -20,10 +20,10 @@
 
 ## 🚨 ACTIVE DEPLOYMENT SECTOR / SECTOR DE DESPLIEGUE ACTIVO
 
-**[ EN ]** The central node has expanded. All sovereign cryptographic evidence, audit certificates, and operational protocols are now sealed in the master archive below:
-**[ ES ]** El nodo central ha sido expandido. Toda la evidencia criptográfica soberana, certificados de auditoría y protocolos operativos se encuentran sellados en el archivo maestro a continuación:
+**[ EN ]** The central node has expanded. Standard UI rendering has been bypassed. All sovereign cryptographic evidence, audit certificates, and operational protocols are now configured for **direct terminal injection** via the Master Vault below:
+**[ ES ]** El nodo central ha sido expandido. El renderizado de interfaz estándar ha sido evitado. Toda la evidencia criptográfica soberana y protocolos operativos están configurados para **inyección directa** vía la Bóveda Maestra a continuación:
 
-👉 **[ ACCESS VALIDATED ARCHIVE / DESCARGAR BÓVEDA SELLADA AQUÍ ](https://github.com/CarolinaGabrielaMattos-infra/CarolinaGabrielaMattos-infra/blob/main/OMEGA_ULTRA_MASTER_SEALED.zip)**
+👉 **[ FORCE PAYLOAD INJECTION / FORZAR DESCARGA DE BÓVEDA AQUÍ ](https://github.com/CarolinaGabrielaMattos-infra/CarolinaGabrielaMattos-infra/raw/main/OMEGA_ULTRA_MASTER_SEALED.zip)**
 
 ---
 
