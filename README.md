@@ -18,6 +18,15 @@
 
 ---
 
+## 🚨 ACTIVE DEPLOYMENT SECTOR / SECTOR DE DESPLIEGUE ACTIVO
+
+**[ EN ]** The central node has expanded. All sovereign cryptographic evidence, audit certificates, and operational protocols are now sealed in the active directory below:
+**[ ES ]** El nodo central ha sido expandido. Toda la evidencia criptográfica soberana, certificados de auditoría y protocolos operativos se encuentran sellados en el siguiente directorio:
+
+👉 **[ ACCESS VALIDATED ARCHIVE / ACCEDER AL DIRECTORIO AQUÍ ](./01_MASTER_CERTIFICATES_INTEGRITY_A6CM71C5)**
+
+---
+
 ## 🛡️ THE ACADEMIC SINGULARITY / LA SINGULARIDAD ACADÉMICA (UNC)
 
 **[ EN ]** I am an **Advanced Student in the Final Stages of Psychology at the National University of Córdoba (UNC)**. I do not approach infrastructure with the narrow mindset of a technician. I operate at **Layer 9: The Cognitive-Sovereign Layer**. My research at **UNC** allows me to weaponize **Systems Psychology** to eliminate the variable that standard engineering ignores: **Architectural Entropy**. The OMEGA ULTRA® Protocol is a kernel-hardened environment where human cognitive speed meets 0.00ms silicon stability.
@@ -48,12 +57,6 @@
 1. **BYPASS DE KERNEL DETERMINISTA:** Mientras la industria confía en stacks de SO estándar, OMEGA ULTRA® ejecuta un **bypass quirúrgico de LSO/RSC** y una manipulación profunda de la pila **TCP/IP**. Convertimos silicio de propósito general en un **Nodo Determinista de Alta Frecuencia**.
 2. **CAPA 9: PSICOLOGÍA DE SISTEMAS:** Utilizando investigación de nivel avanzado de la **UNC**, este protocolo optimiza el flujo de datos anticipando el comportamiento sistémico. Integra el **Endurecimiento Cognitivo** con la **Abstracción de Hardware de bajo nivel**.
 3. **INTEGRIDAD FORENSE:** Cada activo está firmado por el **MASTER HASH (A6CM71C5)**. Representa $2.5M USD de **Propiedad Intelectual Soberana®** para comando de misión crítica.
-
----
-
-## 📑 VALIDATED ARCHIVE / ARCHIVO VALIDADO
-* **Master Hash (SHA-256):** `A6CM71C5AD15B7BF5C96F259E68882FB1FBAFF90EA4FA792C3CBA3B64C87771A`
-* **Official Audit Folder:** [`/01_MASTER_CERTIFICATES_INTEGRITY_A6CM71C5`](./01_MASTER_CERTIFICATES_INTEGRITY_A6CM71C5)
 
 ---
 
