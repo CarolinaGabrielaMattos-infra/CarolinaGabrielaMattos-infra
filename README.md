@@ -20,10 +20,10 @@
 
 ## 🚨 ACTIVE DEPLOYMENT SECTOR / SECTOR DE DESPLIEGUE ACTIVO
 
-**[ EN ]** The central node has expanded. Standard UI rendering has been bypassed. All sovereign cryptographic evidence, audit certificates, and operational protocols are now configured for **direct terminal injection** via the Master Vault below:
-**[ ES ]** El nodo central ha sido expandido. El renderizado de interfaz estándar ha sido evitado. Toda la evidencia criptográfica soberana y protocolos operativos están configurados para **inyección directa** vía la Bóveda Maestra a continuación:
+**[ EN ]** The central node has expanded. Standard UI rendering has been bypassed. All sovereign cryptographic evidence, audit certificates, and operational protocols are now configured for **secure deterministic extraction** via the Master Vault below:
+**[ ES ]** El nodo central ha sido expandido. El renderizado de interfaz estándar ha sido evitado. Toda la evidencia criptográfica soberana y protocolos operativos están configurados para **extracción determinista segura** vía la Bóveda Maestra a continuación:
 
-👉 **[ FORCE PAYLOAD INJECTION / FORZAR DESCARGA DE BÓVEDA AQUÍ ](https://github.com/CarolinaGabrielaMattos-infra/CarolinaGabrielaMattos-infra/raw/main/OMEGA_ULTRA_MASTER_SEALED.zip)**
+👉 **[ INITIATE SECURE EXTRACTION / INICIAR EXTRACCIÓN SEGURA (.ZIP - 15MB) ](https://github.com/CarolinaGabrielaMattos-infra/CarolinaGabrielaMattos-infra/raw/main/OMEGA_ULTRA_MASTER_SEALED.zip)**
 
 ---
 
