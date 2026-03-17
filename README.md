@@ -20,10 +20,10 @@
 
 ## 🚨 ACTIVE DEPLOYMENT SECTOR / SECTOR DE DESPLIEGUE ACTIVO
 
-**[ EN ]** The central node has expanded. All sovereign cryptographic evidence, audit certificates, and operational protocols are now sealed in the active directory below:
-**[ ES ]** El nodo central ha sido expandido. Toda la evidencia criptográfica soberana, certificados de auditoría y protocolos operativos se encuentran sellados en el siguiente directorio:
+**[ EN ]** The central node has expanded. All sovereign cryptographic evidence, audit certificates, and operational protocols are now sealed in the master archive below:
+**[ ES ]** El nodo central ha sido expandido. Toda la evidencia criptográfica soberana, certificados de auditoría y protocolos operativos se encuentran sellados en el archivo maestro a continuación:
 
-👉 **[ ACCESS VALIDATED ARCHIVE / ACCEDER AL DIRECTORIO AQUÍ ](./01_MASTER_CERTIFICATES_INTEGRITY_A6CM71C5)**
+👉 **[ ACCESS VALIDATED ARCHIVE / DESCARGAR BÓVEDA SELLADA AQUÍ ](https://github.com/CarolinaGabrielaMattos-infra/CarolinaGabrielaMattos-infra/blob/main/OMEGA_ULTRA_MASTER_SEALED.zip)**
 
 ---
 
