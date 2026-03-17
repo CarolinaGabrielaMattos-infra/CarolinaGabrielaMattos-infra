@@ -32,7 +32,7 @@
 👉 **[ STEP 2: RAW TELEMETRY MANIFEST (.PDF) ](https://github.com/CarolinaGabrielaMattos-infra/CarolinaGabrielaMattos-infra/blob/main/OMEGA-ULTRA-VMAX-DETERMINISTIC-KERNEL-MANIFEST-A6C771A.pdf)**
 > *0.00ms Jitter & Kernel Bypass proof.*
 
-👉 **[ MASTER IDENTITY ANCHOR (CRYPTOGRAPHIC SOURCE) ](https://github.com/CarolinaGabrielaMattos-infra/CarolinaGabrielaMattos-infra/blob/main/CAROLINA_G_MATTOS_OMEGA_ULTRA_AUDIT_VERIFIED_A6CM.pdf)**
+👉 **[ MASTER IDENTITY ANCHOR (CRYPTOGRAPHIC SOURCE) ](https://github.com/CarolinaGabrielaMattos-infra/CarolinaGabrielaMattos-infra/blob/main/MASTER_HASH)**
 > *The cryptographic root of the $10M IP. Verified SHA-256 Seal.*
 
 ---
