@@ -39,7 +39,9 @@
 
 ## 🛡️ THE ACADEMIC SINGULARITY / LA SINGULARIDAD ACADÉMICA (UNC)
 
-Soy **Estudiante Avanzada de Psicología en la Universidad Nacional de Córdoba (UNC)**. Opero en la **Capa 9: La Capa Cognitiva-Soberana**. Mi investigación me permite utilizar la **Psicología de Sistemas** para eliminar la variable que la ingeniería convencional ignora: la **Entropía Arquitectónica**. El Protocolo OMEGA ULTRA® es donde la velocidad cognitiva humana se encuentra con la estabilidad del silicio de **0.00ms**.
+**[ EN ]** I am an **Advanced Student of Psychology at the National University of Córdoba (UNC)**. I operate at **Layer 9: The Cognitive-Sovereign Layer**. My research weaponizes **Systems Psychology** to eliminate the variable that standard engineering ignores: **Architectural Entropy**. The OMEGA ULTRA® Protocol is where human cognitive speed meets the **0.00ms** stability of silicon.
+
+**[ ES ]** Soy **Estudiante Avanzada de Psicología en la Universidad Nacional de Córdoba (UNC)**. Opero en la **Capa 9: La Capa Cognitiva-Soberana**. Mi investigación utiliza la **Psicología de Sistemas** para eliminar la variable que la ingeniería convencional ignora: la **Entropía Arquitectónica**. El Protocolo OMEGA ULTRA® es donde la velocidad cognitiva humana se encuentra con la estabilidad del silicio de **0.00ms**.
 
 ---
 
