@@ -26,8 +26,8 @@
 
 ### 🛑 [ INITIATE SECURE EXTRACTION | MULTI-SIG FORENSIC VAULT ]
 
-👉 **[ STEP 1: AUDIT PROTOCOL CERTIFICATE (VERIFIED) ](https://github.com/CarolinaGabrielaMattos-infra/CarolinaGabrielaMattos-infra/blob/main/OMEGA_ULTRA_AUDIT_CERTIFICATE.md)**
-> *Executive verification of the A6CM71C5 Hash Seal.*
+👉 **[ STEP 1: AUDIT PROTOCOL CERTIFICATE (OFFICIAL PDF) ](https://github.com/CarolinaGabrielaMattos-infra/CarolinaGabrielaMattos-infra/blob/main/CAROLINA_G_MATTOS_OMEGA_ULTRA_AUDIT_VERIFIED_A6CM.pdf)**
+> *Official forensic verification of the A6CM71C5 Hash Seal.*
 
 👉 **[ STEP 2: RAW TELEMETRY MANIFEST (.PDF) ](https://github.com/CarolinaGabrielaMattos-infra/CarolinaGabrielaMattos-infra/blob/main/OMEGA-ULTRA-VMAX-DETERMINISTIC-KERNEL-MANIFEST-A6C771A.pdf)**
 > *0.00ms Jitter & Kernel Bypass proof.*
