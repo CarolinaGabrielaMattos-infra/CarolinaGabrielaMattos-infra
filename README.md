@@ -26,8 +26,8 @@
 
 ### 🛑 [ INITIATE SECURE EXTRACTION | TIER-0 FORENSIC VAULT ]
 
-👉 **[ 📦 CLICK AQUÍ: DESCARGA DIRECTA v5.0 VAULT ](https://github.com/CarolinaGabrielaMattos-infra/CarolinaGabrielaMattos-infra/raw/main/%5BAUDITED-CONTENT%5D_OMEGA-ULTRA_v5.0_TIER0_VAULT)**
-> *Protocolo de descarga automática: LZMA2 Solid Compression. SHA-256 Verified.*
+👉 **[ 📦 CLICK AQUÍ: DESCARGA DIRECTA v5.0 VAULT (GOOGLE DRIVE) ](https://github.com/CarolinaGabrielaMattos-infra/CarolinaGabrielaMattos-infra/raw/main/%5BAUDITED-CONTENT%5D_OMEGA-ULTRA_v5.0_TIER0_VAULT)**
+> *Enlace directo al repositorio en Drive: Incluye Bóveda de Alta Densidad (7.3GB), Manifiestos, Documentación Técnica y Registro de SHA-256 Hashes.*
 
 👉 **[ 🛑 VER MANIFIESTO OFICIAL (PÁGINA DEL NODO) ](https://github.com/CarolinaGabrielaMattos-infra/CarolinaGabrielaMattos-infra/blob/main/%F0%9F%9B%91_CONFIDENTIAL_TIER0_MATTOS_OMEGA_ULTRA_MANIFEST.pdf)**
 > *Official Sovereign Manifest: 0.500ms Kernel Latency & A6CM Hash Seal Verification.*
