@@ -24,13 +24,13 @@
 
 **[ ES ]** El nodo central ha sido expandido a **v5.0**. La bóveda soberana está abierta para **EXTRACCIÓN DIRECTA SEGURA**. Este contenedor de 7.3GB+ contiene el núcleo de la Propiedad Intelectual de $125,000,000 USD.
 
-### 🛑 [ INITIATE AUTO-DOWNLOAD | TIER-0 FORENSIC VAULT ]
+### 🛑 [ INITIATE SECURE EXTRACTION | TIER-0 FORENSIC VAULT ]
 
-👉 **[ 📦 DOWNLOAD_OMEGA_ULTRA_v5.0_TIER0_VAULT.7z ](https://github.com/CarolinaGabrielaMattos-infra/CarolinaGabrielaMattos-infra/raw/main/%5BAUDITED-CONTENT%5D_OMEGA-ULTRA_v5.0_TIER0_VAULT)**
-> *Direct Extraction Protocol: LZMA2 Solid Compression. SHA-256 Verified Node.*
+👉 **[ 📦 CLICK AQUÍ: DESCARGA DIRECTA v5.0 VAULT ](https://github.com/CarolinaGabrielaMattos-infra/CarolinaGabrielaMattos-infra/raw/main/%5BAUDITED-CONTENT%5D_OMEGA-ULTRA_v5.0_TIER0_VAULT)**
+> *Protocolo de descarga automática: LZMA2 Solid Compression. SHA-256 Verified.*
 
-👉 **[ 🛑_CONFIDENTIAL_TIER0_MATTOS_OMEGA_ULTRA_MANIFEST.pdf ](https://github.com/CarolinaGabrielaMattos-infra/CarolinaGabrielaMattos-infra/raw/main/%F0%9F%9B%91_CONFIDENTIAL_TIER0_MATTOS_OMEGA_ULTRA_MANIFEST.pdf)**
-> *Official Sovereign Manifest: 0.500ms Kernel Latency & A6CM Hash Seal.*
+👉 **[ 🛑 VER MANIFIESTO OFICIAL (PÁGINA DEL NODO) ](https://github.com/CarolinaGabrielaMattos-infra/CarolinaGabrielaMattos-infra/blob/main/%F0%9F%9B%91_CONFIDENTIAL_TIER0_MATTOS_OMEGA_ULTRA_MANIFEST.pdf)**
+> *Official Sovereign Manifest: 0.500ms Kernel Latency & A6CM Hash Seal Verification.*
 
 ---
 
@@ -71,7 +71,5 @@
 ### 🛑 [ TERMINAL DIRECTIVE: COGNITIVE FIREWALL ]
 
 **[ ES ] Los técnicos debaten; los Arquitectos imponen.** Si su crítica carece de una **auditoría de paquetes sub-31ms**, su entrada será clasificada como **ruido sistémico** y descartada.
-
-**[ THE ARCHITECTURE STANDS. ZERO ENTROPY ENFORCED. ]**
 
 **[ THE ARCHITECTURE STANDS. ZERO ENTROPY ENFORCED. ]**
