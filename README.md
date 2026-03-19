@@ -5,7 +5,7 @@
   <code><b>NODE_ID:</b> ALPHA-01-UNC</code> | 
   <code><b>RANK:</b> <span style="color: #ff00ff;">ORCHESTRATOR TIER-0</span></code>
   <br>
-  <code><b>VALUATION:</b> $10M+ IP ACTIVE</span></code> | 
+  <code><b>VALUATION:</b> $10M+ IP ACTIVE</code> | 
   <code><b>MASTER_HASH:</b> A6CM71C5AD15B7BF5C96F259E68882FB1FBAFF90EA4FA792C3CBA3B64C87771A</code>
 </div>
 
@@ -13,8 +13,7 @@
 
 # [ ⚡ ] OMEGA ULTRA® | Sovereign Infrastructure & Systems Psychology
 
-> **"Standard IT is a reactive failure. OMEGA ULTRA® is a deterministic imposition on reality."**
-> **"La IT estándar es un fallo reactivo. OMEGA ULTRA® es una imposición determinista sobre la realidad."**
+> **"Standard IT is a reactive failure. OMEGA ULTRA® is a deterministic imposition on reality."** > **"La IT estándar es un fallo reactivo. OMEGA ULTRA® es una imposición determinista sobre la realidad."**
 
 ---
 
@@ -26,14 +25,11 @@
 
 ### 🛑 [ INITIATE SECURE EXTRACTION | TIER-0 FORENSIC VAULT ]
 
-👉 **[ 🛑_CONFIDENTIAL_TIER0_MATTOS_OMEGA_ULTRA_MANIFEST.pdf ](https://github.com/CarolinaGabrielaMattos-infra/CarolinaGabrielaMattos-infra/blob/main/%F0%9F%9B%91_CONFIDENTIAL_TIER0_MATTOS_OMEGA_ULTRA_MANIFEST.pdf)**
-> *Official Sovereign Manifest: 0.500ms Kernel Latency & A6CM Hash Seal Verification.*
+👉 **[ 🛑_CONFIDENTIAL_TIER0_MATTOS_OMEGA_ULTRA_MANIFEST.pdf ](https://github.com/CarolinaGabrielaMattos-infra/CarolinaGabrielaMattos-infra/blob/main/%F0%9F%9B%91_CONFIDENTIAL_TIER0_MATTOS_OMEGA_ULTRA_MANIFEST.pdf)** > *Official Sovereign Manifest: 0.500ms Kernel Latency & A6CM Hash Seal Verification.*
 
-👉 **[ RUNTIME_OPTIMIZATION_MANIFEST_V3_OMEGA_ULTRA.pdf ](https://github.com/CarolinaGabrielaMattos-infra/CarolinaGabrielaMattos-infra/blob/main/RUNTIME_OPTIMIZATION_MANIFEST_V3_OMEGA_ULTRA.pdf)**
-> *Technical proof of Zero-Reboot Hot-Swap & 15.2GB Isolated RAM Residency.*
+👉 **[ RUNTIME_OPTIMIZATION_MANIFEST_V3_OMEGA_ULTRA.pdf ](https://github.com/CarolinaGabrielaMattos-infra/CarolinaGabrielaMattos-infra/blob/main/RUNTIME_OPTIMIZATION_MANIFEST_V3_OMEGA_ULTRA.pdf)** > *Technical proof of Zero-Reboot Hot-Swap & 15.2GB Isolated RAM Residency.*
 
-👉 **[ OMEGA-ULTRA-VMAX-DETERMINISTIC-KERNEL-MANIFEST-A6C771A.pdf ](https://github.com/CarolinaGabrielaMattos-infra/CarolinaGabrielaMattos-infra/blob/main/OMEGA-ULTRA-VMAX-DETERMINISTIC-KERNEL-MANIFEST-A6C771A.pdf)**
-> *Network BBRv3 Implementation & 0.00ms Jitter Telemetry.*
+👉 **[ OMEGA-ULTRA-VMAX-DETERMINISTIC-KERNEL-MANIFEST-A6C771A.pdf ](https://github.com/CarolinaGabrielaMattos-infra/CarolinaGabrielaMattos-infra/blob/main/OMEGA-ULTRA-VMAX-DETERMINISTIC-KERNEL-MANIFEST-A6C771A.pdf)** > *Network BBRv3 Implementation & 0.00ms Jitter Telemetry.*
 
 ---
 
