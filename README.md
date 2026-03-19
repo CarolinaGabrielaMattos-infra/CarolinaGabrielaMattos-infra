@@ -5,7 +5,7 @@
   <code><b>NODE_ID:</b> ALPHA-01-UNC</code> | 
   <code><b>RANK:</b> <span style="color: #ff00ff;">ORCHESTRATOR TIER-0</span></code>
   <br>
-  <code><b>VALUATION:</b> $10M+ IP ACTIVE</code> | 
+  <code><b>VALUATION:</b> $10M+ IP ACTIVE</span></code> | 
   <code><b>MASTER_HASH:</b> A6CM71C5AD15B7BF5C96F259E68882FB1FBAFF90EA4FA792C3CBA3B64C87771A</code>
 </div>
 
@@ -24,27 +24,24 @@
 
 **[ ES ]** El nodo central ha sido expandido. Toda la evidencia criptográfica soberana y protocolos operativos están configurados para **extracción determinista segura**. El acceso a la Propiedad Intelectual de $10M requiere verificación dual.
 
-### 🛑 [ INITIATE SECURE EXTRACTION | MULTI-SIG FORENSIC VAULT ]
+### 🛑 [ INITIATE SECURE EXTRACTION | TIER-0 FORENSIC VAULT ]
 
-👉 **[ STEP 1: RUNTIME OPTIMIZATION MANIFEST (V3 OMEGA ULTRA) ](https://github.com/CarolinaGabrielaMattos-infra/CarolinaGabrielaMattos-infra/blob/main/RUNTIME_OPTIMIZATION_MANIFEST_V3_OMEGA_ULTRA.pdf)**
-> [cite_start]*Technical proof of Zero-Reboot Hot-Swap & Kernel Lock 0.5ms.* [cite: 9, 11]
+👉 **[ 🛑_CONFIDENTIAL_TIER0_MATTOS_OMEGA_ULTRA_MANIFEST.pdf ](https://github.com/CarolinaGabrielaMattos-infra/CarolinaGabrielaMattos-infra/blob/main/%F0%9F%9B%91_CONFIDENTIAL_TIER0_MATTOS_OMEGA_ULTRA_MANIFEST.pdf)**
+> *Official Sovereign Manifest: 0.500ms Kernel Latency & A6CM Hash Seal Verification.*
 
-👉 **[ STEP 2: AUDIT PROTOCOL CERTIFICATE (OFFICIAL PDF) ](https://github.com/CarolinaGabrielaMattos-infra/CarolinaGabrielaMattos-infra/blob/main/CAROLINA_G_MATTOS_OMEGA_ULTRA_AUDIT_VERIFIED_A6CM.pdf)**
-> [cite_start]*Official forensic verification of the A6CM71C5 Hash Seal.* 
+👉 **[ RUNTIME_OPTIMIZATION_MANIFEST_V3_OMEGA_ULTRA.pdf ](https://github.com/CarolinaGabrielaMattos-infra/CarolinaGabrielaMattos-infra/blob/main/RUNTIME_OPTIMIZATION_MANIFEST_V3_OMEGA_ULTRA.pdf)**
+> *Technical proof of Zero-Reboot Hot-Swap & 15.2GB Isolated RAM Residency.*
 
-👉 **[ STEP 3: RAW TELEMETRY MANIFEST (.PDF) ](https://github.com/CarolinaGabrielaMattos-infra/CarolinaGabrielaMattos-infra/blob/main/OMEGA-ULTRA-VMAX-DETERMINISTIC-KERNEL-MANIFEST-A6C771A.pdf)**
-> [cite_start]*0.00ms Jitter & Network BBRv3 Implementation.* [cite: 14, 28]
-
-👉 **[ MASTER IDENTITY ANCHOR (CRYPTOGRAPHIC SOURCE) ](https://github.com/CarolinaGabrielaMattos-infra/CarolinaGabrielaMattos-infra/blob/main/RUNTIME_OPTIMIZATION_MANIFEST_V3_OMEGA_ULTRA.pdf)**
-> *The cryptographic root of the $10M IP. [cite_start]Verified SHA-256 Seal.* 
+👉 **[ OMEGA-ULTRA-VMAX-DETERMINISTIC-KERNEL-MANIFEST-A6C771A.pdf ](https://github.com/CarolinaGabrielaMattos-infra/CarolinaGabrielaMattos-infra/blob/main/OMEGA-ULTRA-VMAX-DETERMINISTIC-KERNEL-MANIFEST-A6C771A.pdf)**
+> *Network BBRv3 Implementation & 0.00ms Jitter Telemetry.*
 
 ---
 
 ## 🛡️ THE ACADEMIC SINGULARITY / LA SINGULARIDAD ACADÉMICA (UNC)
 
-**[ EN ]** I am an **Advanced Student of Psychology at the National University of Córdoba (UNC)**. I operate at **Layer 9: The Cognitive-Sovereign Layer**. My research weaponizes **Systems Psychology** to eliminate the variable that standard engineering ignores: **Architectural Entropy**. The OMEGA ULTRA® Protocol is where human cognitive speed meets the **0.00ms** stability of silicon. [cite: 14]
+**[ EN ]** I am an **Advanced Student of Psychology at the National University of Córdoba (UNC)**. I operate at **Layer 9: The Cognitive-Sovereign Layer**. My research weaponizes **Systems Psychology** to eliminate **Architectural Entropy**. The OMEGA ULTRA® Protocol is where human cognitive speed meets the **0.500ms** stability of silicon.
 
-**[ ES ]** Soy **Estudiante Avanzada de Psicología en la Universidad Nacional de Córdoba (UNC)**. Opero en la **Capa 9: La Capa Cognitiva-Soberana**. Mi investigación utiliza la **Psicología de Sistemas** para eliminar la variable que la ingeniería convencional ignora: la **Entropía Arquitectónica**. El Protocolo OMEGA ULTRA® es donde la velocidad cognitiva humana se encuentra con la estabilidad del silicio de **0.00ms**. [cite: 14]
+**[ ES ]** Soy **Estudiante Avanzada de Psicología en la Universidad Nacional de Córdoba (UNC)**. Opero en la **Capa 9: La Capa Cognitiva-Soberana**. Mi investigación utiliza la **Psicología de Sistemas** para eliminar la **Entropía Arquitectónica**. El Protocolo OMEGA ULTRA® es donde la velocidad cognitiva humana se encuentra con la estabilidad del silicio de **0.500ms**.
 
 ---
 
@@ -52,10 +49,10 @@
 
 | Metric / Métrica | Industry Standard | **OMEGA ULTRA® Result** | The Advantage |
 | :--- | :--- | :--- | :--- |
-| **Kernel Latency** | Variable (>1ms) | **0.500ms (Locked)** [cite: 11] | **Atomic Precision** [cite: 12] |
-| **Network Jitter** | 2ms - 15ms | **0.00ms (Static)** [cite: 14] | **Zero Packet Friction** [cite: 15] |
-| **TCP Window** | Standard OS | **524,288 B (Tier-0)** [cite: 17] | **Max Throughput** [cite: 18] |
-| **System Stability** | Probabilistic | **Deterministic** [cite: 31] | **Mission-Critical** [cite: 9] |
+| **Kernel Latency** | Variable (>1ms) | **0.500ms (Locked)** | **Atomic Precision** |
+| **Network Jitter** | 2ms - 15ms | **0.00ms (Static)** | **Zero Packet Friction** |
+| **TCP Window** | Standard OS | **524,288 B (Tier-0)** | **Max Throughput** |
+| **System Stability** | Probabilistic | **Deterministic** | **Mission-Critical** |
 
 ---
 
