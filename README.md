@@ -35,7 +35,7 @@
 👉 **[ STEP 3: RAW TELEMETRY MANIFEST (.PDF) ](https://github.com/CarolinaGabrielaMattos-infra/CarolinaGabrielaMattos-infra/blob/main/OMEGA-ULTRA-VMAX-DETERMINISTIC-KERNEL-MANIFEST-A6C771A.pdf)**
 > [cite_start]*0.00ms Jitter & Network BBRv3 Implementation.* [cite: 14, 28]
 
-👉 **[ MASTER IDENTITY ANCHOR (CRYPTOGRAPHIC SOURCE) ](https://github.com/CarolinaGabrielaMattos-infra/CarolinaGabrielaMattos-infra/blob/main/MASTER_HASH)**
+👉 **[ MASTER IDENTITY ANCHOR (CRYPTOGRAPHIC SOURCE) ](https://github.com/CarolinaGabrielaMattos-infra/CarolinaGabrielaMattos-infra/blob/main/RUNTIME_OPTIMIZATION_MANIFEST_V3_OMEGA_ULTRA.pdf)**
 > *The cryptographic root of the $10M IP. [cite_start]Verified SHA-256 Seal.* 
 
 ---
