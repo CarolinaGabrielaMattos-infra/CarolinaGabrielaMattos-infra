@@ -20,17 +20,17 @@
 
 ## 🚨 ACTIVE DEPLOYMENT SECTOR / SECTOR DE DESPLIEGUE ACTIVO
 
-**[ EN ]** The central node has expanded to **v5.0**. All sovereign cryptographic evidence and operational protocols are configured for **secure deterministic extraction**. Access to the $125M Genesis IP requires dual-verification.
+**[ EN ]** The central node has expanded to **v5.0**. The sovereign vault is now open for **INSTANT SECURE EXTRACTION**. This 7.3GB+ container holds the core of the $125,000,000 USD Genesis IP.
 
-**[ ES ]** El nodo central ha sido expandido a **v5.0**. Toda la evidencia criptográfica soberana y protocolos operativos están configurados para **extracción determinista segura**. El acceso a la Propiedad Intelectual de $125M requiere verificación dual.
+**[ ES ]** El nodo central ha sido expandido a **v5.0**. La bóveda soberana está abierta para **EXTRACCIÓN DIRECTA SEGURA**. Este contenedor de 7.3GB+ contiene el núcleo de la Propiedad Intelectual de $125,000,000 USD.
 
-### 🛑 [ INITIATE SECURE EXTRACTION | TIER-0 FORENSIC VAULT ]
+### 🛑 [ INITIATE AUTO-DOWNLOAD | TIER-0 FORENSIC VAULT ]
 
-👉 **[ 🛑_CONFIDENTIAL_TIER0_MATTOS_OMEGA_ULTRA_MANIFEST.pdf ](https://github.com/CarolinaGabrielaMattos-infra/CarolinaGabrielaMattos-infra/blob/main/%F0%9F%9B%91_CONFIDENTIAL_TIER0_MATTOS_OMEGA_ULTRA_MANIFEST.pdf)**
-> *Official Sovereign Manifest: 0.500ms Kernel Latency & A6CM Hash Seal Verification.*
+👉 **[ 📦 DOWNLOAD_OMEGA_ULTRA_v5.0_TIER0_VAULT.7z ](https://github.com/CarolinaGabrielaMattos-infra/CarolinaGabrielaMattos-infra/raw/main/%5BAUDITED-CONTENT%5D_OMEGA-ULTRA_v5.0_TIER0_VAULT)**
+> *Direct Extraction Protocol: LZMA2 Solid Compression. SHA-256 Verified Node.*
 
-👉 **[ RUNTIME_OPTIMIZATION_MANIFEST_V3_OMEGA_ULTRA.pdf ](https://github.com/CarolinaGabrielaMattos-infra/CarolinaGabrielaMattos-infra/blob/main/RUNTIME_OPTIMIZATION_MANIFEST_V3_OMEGA_ULTRA.pdf)**
-> *Technical proof of Zero-Reboot Hot-Swap & 15.2GB Isolated RAM Residency.*
+👉 **[ 🛑_CONFIDENTIAL_TIER0_MATTOS_OMEGA_ULTRA_MANIFEST.pdf ](https://github.com/CarolinaGabrielaMattos-infra/CarolinaGabrielaMattos-infra/raw/main/%F0%9F%9B%91_CONFIDENTIAL_TIER0_MATTOS_OMEGA_ULTRA_MANIFEST.pdf)**
+> *Official Sovereign Manifest: 0.500ms Kernel Latency & A6CM Hash Seal.*
 
 ---
 
@@ -59,8 +59,6 @@
 * **TIER-1 CONTINUITY: $1.5M - $3M / Mo** (Homeostasis Maintenance).
 * **GOD-MODE RESCUE: $350,000,000 USD** (Immediate 12h Forensic Intervention).
 
-> **⚠️ FISCAL INTEGRITY CLAUSE:** Toda compensación debe recibirse en **NETO COMPLETO (USD)**. La parte contratante asume el 100% de la fricción jurisdiccional (Impuestos, Tasas, BCRA). Mi IP no subsidia la ineficiencia estatal.
-
 ---
 
 ## 🌐 CONNECT WITH THE NODE / CONTACTO
@@ -73,5 +71,7 @@
 ### 🛑 [ TERMINAL DIRECTIVE: COGNITIVE FIREWALL ]
 
 **[ ES ] Los técnicos debaten; los Arquitectos imponen.** Si su crítica carece de una **auditoría de paquetes sub-31ms**, su entrada será clasificada como **ruido sistémico** y descartada.
+
+**[ THE ARCHITECTURE STANDS. ZERO ENTROPY ENFORCED. ]**
 
 **[ THE ARCHITECTURE STANDS. ZERO ENTROPY ENFORCED. ]**
