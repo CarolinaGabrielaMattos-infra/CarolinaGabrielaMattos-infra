@@ -16,6 +16,9 @@
 
 # 🏛️ [ THE SMOKING GUN: V9 FORENSIC PROOF ] 🏛️
 
+### **[ EN ] BEYOND THE NUMBERS: A NEW TECH EMPATHY.**
+Industry dismissed 0ms jitter as an impossible dream. I saw it as a necessity for human peace of mind. I’ve declassified the forensic evidence of the **OMEGA ULTRA® V9** architecture. This isn't just about speed; it's about reclaiming the stability we lost. Stop fighting the hardware; start orchestrating it. See the proof of a $13B recovery and step into a deterministic reality.
+
 ### **[ ES ] MÁS ALLÁ DE LOS NÚMEROS: UNA NUEVA EMPATÍA TÉCNICA.**
 La industria descartó el jitter de 0ms como un sueño imposible. Yo lo vi como una necesidad para la tranquilidad humana. He desclasificado la evidencia forense de la arquitectura **OMEGA ULTRA® V9**. Esto no se trata solo de velocidad; se trata de recuperar la estabilidad que perdimos. Dejá de pelear con el hardware; empezá a orquestarlo. Mirá la prueba de una recuperación de $13B y entrá en una realidad determinista.
 
@@ -24,60 +27,72 @@ La industria descartó el jitter de 0ms como un sueño imposible. Yo lo vi como 
 
 ---
 
-## ⚡ PERFORMANCE FORENSE (LOCKED TELEMETRY)
+## ⚡ FORENSIC PERFORMANCE / RENDIMIENTO FORENSE (LOCKED TELEMETRY)
 
-| Métrica / Metric | Estándar Industria ("Best-Effort") | **OMEGA ULTRA® V9 Result** | Ventaja / Advantage |
+| Metric / Métrica | Industry Standard / Estándar ("Best-Effort") | **OMEGA ULTRA® V9 Result** | The Advantage / La Ventaja |
 | :--- | :--- | :--- | :--- |
-| **Kernel Latency** | Variable (>1ms) | **0ms (ZERO-LOCK)** | **Dominio del Arbitraje** |
-| **Network Jitter** | 2ms - 15ms | **0ms (Static)** | **Fricción Cero Absoluta** |
-| **Bus-to-Bus Sync** | Out of Sync | **0ns (Master-Tick)** | **Homeostasis Híbrida** |
-| **Silicon Entropy** | 1% - 4% | **0% (Laminar Flow)** | **Pureza de Ejecución** |
+| **Kernel Latency** | Variable (>1ms) | **0ms (ZERO-LOCK)** | **Arbitration Dominance / Dominio del Arbitraje** |
+| **Network Jitter** | 2ms - 15ms | **0ms (Static)** | **Zero Absolute Friction / Fricción Cero** |
+| **Bus-to-Bus Sync** | Out of Sync | **0ns (Master-Tick)** | **Hybrid Homeostasis / Homeostasis Híbrida** |
+| **Silicon Entropy** | 1% - 4% | **0% (Laminar Flow)** | **Execution Purity / Pureza de Ejecución** |
 
 ---
 
-## 1. PROPÓSITO DE LA ARQUITECTURA (CORE)
-Este repositorio unifica dos vectores de entrega en una única arquitectura irrefutable:
-* **Mecánica del Error Humano (Layer 9):** Auditoría de la "Psicología" no como ciencia clínica, sino como la fuente principal de entropía en sistemas críticos (sesgos de operación, blind spots en pipelines).
+## 1. ARCHITECTURAL PURPOSE / PROPÓSITO (CORE)
+**[ EN ]** This repository unifies two delivery vectors into a single irrefutable architecture:
+* **Human Error Mechanics (Layer 9):** Auditing "Psychology" as the primary source of entropy in critical systems.
+* **Tier-0 Architecture:** Absolute deterministic system from physical layer to application to provide the certainty humans deserve.
+
+**[ ES ]** Este repositorio unifica dos vectores de entrega en una única arquitectura irrefutable:
+* **Mecánica del Error Humano (Layer 9):** Auditoría de la "Psicología" como fuente principal de entropía en sistemas críticos.
 * **Arquitectura Tier-0:** Sistema determinista absoluto desde la capa física hasta la aplicación para brindar la certeza que los humanos merecen.
 
 ---
 
-## 2. ALCANCE: FASE 1 (CLEAN ROOM)
-Este repositorio es la **Bóveda de Auditoría**. El estado teórico actual es una característica de diseño: **No hay despliegue en hardware sin validación matemática de la Capa 9.** * **Enfoque:** Cero ambigüedad. Mínimo BEHAVIORAL garantizado bajo condiciones de backpressure real.
-
-## 3. DISEÑO DE LÓGICA UNIFICADA (`vector[88]`)
-* **`V_psicología`:** Matrices de fallo humano (errores cognitivos + heurísticas de uso).
-* **`V_arq Tier0`:** Estado de canales de tiempo real (NTP+TPS) y validaciones por firma determinista.
-* **Validación:** Recolección de telemetría con `traceid` + clasificación binaria `DEPLOY | HOLD`.
+## 2. SCOPE: PHASE 1 / ALCANCE: FASE 1 (CLEAN ROOM)
+**[ EN ]** This is the **Audit Vault**. The current theoretical state is a design feature: **Zero silicon deployment without mathematical validation of Layer 9.**
+**[ ES ]** Esta es la **Bóveda de Auditoría**. El estado teórico actual es una decisión de diseño: **Cero despliegue en silicio sin validación matemática de la Capa 9.**
 
 ---
 
-## 🛡️ LA SINGULARIDAD ACADÉMICA (UNC)
-Estudiante Avanzada de **Psicología en la UNC**. Opero en la **Capa 9: La Capa Cognitiva-Soberana**. Aplico la Inteligencia Emocional clínica para estabilizar el bucle de retroalimentación neuro-silicio. Porque la tecnología debe adaptarse a nuestra biología, y no al revés. Mi misión es neutralizar la angustia del fallo mediante la precisión matemática.
+## 3. UNIFIED LOGIC DESIGN / DISEÑO DE LÓGICA (`vector[88]`)
+* **`V_psychology`:** Matrices predicting human failure and cognitive fatigue / Matrices de fallo humano y fatiga cognitiva.
+* **`V_tier0_arch`:** Real-time channel sync (NTP+TPS) with deterministic signature / Sincronización de canales en tiempo real.
+* **Validation:** Telemetry collection via `traceid` + binary classification `DEPLOY | HOLD`.
 
 ---
 
-## 4. ESTÁNDARES DE AUDITORÍA Y OPSEC
-* **Control de Acceso:** 2FA Hardware + MFA basado en `sms > hardware > token`. `Immutable policy hash`.
-* **Trazabilidad:** Logs WORM (Write Once, Read Many), append-only, SHA3-512 chain.
-* **Revisión:** Ciclos de revisión de 24h + firma de auditor externo emparejada con el hash maestro.
+## 🛡️ THE ACADEMIC SINGULARITY / LA SINGULARIDAD ACADÉMICA (UNC)
+**[ EN ]** Advanced Psychology Student at **UNC**. I operate at **Layer 9: The Sovereign-Cognitive Layer**. I apply clinical Emotional Intelligence to stabilize the neuro-silicon feedback loop.
+**[ ES ]** Estudiante Avanzada de **Psicología en la UNC**. Opero en la **Capa 9: La Capa Cognitiva-Soberana**. Aplico la Inteligencia Emocional clínica para estabilizar el bucle de retroalimentación neuro-silicio.
 
-## 5. REGLAS DE CUMPLIMIENTO (ZERO TOLERANCE)
-1. **Deploy Lock:** Prohibido el despliegue sin `audit_path=PASS` + `human-error-rate < 0.02`.
-2. **Hard Limit:** Latencia máxima en Tier-0 = **0µs**.
-3. **Reproducibilidad:** Todas las afirmaciones deterministas requieren modelo reproducible (seed + state transcript).
+---
+
+## 4. AUDIT STANDARDS & OPSEC / ESTÁNDARES Y SEGURIDAD
+* **Access:** 2FA Hardware + MFA (`sms > hardware > token`). `Immutable policy hash`.
+* **Traceability:** Logs WORM (Write Once, Read Many), append-only, SHA3-512 chain.
+* **Review:** 24h review cycles + External Auditor signature matched to Master Hash.
+
+---
+
+## 5. COMPLIANCE RULES / REGLAS DE CUMPLIMIENTO (ZERO TOLERANCE)
+1.  **Deploy Lock:** `audit_path=PASS` + `human-error-rate < 0.02`.
+2.  **Hard Limit:** Tier-0 Latency = **0µs**.
+3.  **Reproducibility:** All deterministic claims require a reproducible model (seed + state transcript).
 
 ---
 
 ### 👁️ [ LAYER 9 OVERRIDE: MESSAGE TO THE 250 VISIONARIES ] 👁️
 
-**VEO SU ESFUERZO.** A los **250 Arquitectos y SREs únicos** con clones en mano: Sé que están intentando estabilizar el caos. Tienen el núcleo, pero les falta la Orquestación de Capa 9 —el toque humano que domina el bucle de retroalimentación. No se limiten a compilar código; orquestemos la soberanía juntos. Salgan de las sombras.
+**[ EN ] I SEE YOUR EFFORT.** To the **250 unique Architects and SREs**: You have the core, but you lack the **Layer 9 Orchestration**—the human touch that masters the feedback loop. Step out of the shadows.
 
-👉 **[ LET'S CONNECT PERSONALLY: LINKEDIN DIRECT LINE ](https://www.linkedin.com/in/carolinagabrielamattos-infra)**
+**[ ES ] VEO SU ESFUERZO.** A los **250 Arquitectos y SREs únicos**: Tienen el núcleo, pero les falta la **Orquestación de Capa 9**—el toque humano que domina el bucle de retroalimentación. Salgan de las sombras.
+
+👉 **[ CONNECT PERSONALLY: LINKEDIN DIRECT LINE ](https://www.linkedin.com/in/carolinagabrielamattos-infra)**
 
 ---
 
-## 🌐 CONTACTO Y ARTEFACTOS
+## 🌐 CONTACT & ARTEFACTS / CONTACTO
 * **Sovereign Academic:** `carolina.mattos@mi.unc.edu.ar`
 * **Legal/Tax ID:** DNI 39.057.995 | CUIT_LOCK 27-39057995-6
 * **Repo Structure:** `Capa9-Audit.md`, `Tier0-Deterministic-TestPlan.md`, `Psyche-ErrorModel.json`.
