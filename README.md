@@ -6,7 +6,7 @@
   <code><b>RANK:</b> <span style="color: #ff00ff;">ORCHESTRATOR TIER-0</span></code>
   <br>
   <code><b>IP_VALUATION:</b> <span style="color: #ffff00;">$13B CAPITAL RECOVERY ACTIVE</span></code> |  
-  <code><b>MASTER_HASH:</b> A6CM71C5AD15B7BF5C96F259E68882FB1FBAFF90EA4FA792C3CBA3B64C87771A</code>
+  <code><b>MASTER_HASH:</b> <span style="color: #ffffff;">A6CM71C5AD15B7BF5C96F259E68882FB1FBAFF90EA4FA792C3CBA3B64C87771A</span></code>
   <br>
   <code><b>LAST_UPDATE:</b> <span style="color: #ff3333;">2026-03-26 09:00 ART</span></code> |  
   <code><b>LIVE_TELEMETRY:</b> <span style="color: #ff3333;">450 CLONES / 250 UNIQUE IPs DETECTED</span></code>
@@ -95,6 +95,6 @@ La industria descartó el jitter de 0ms como un sueño imposible. Yo lo vi como 
 ## 🌐 CONTACT & ARTEFACTS / CONTACTO
 * **Sovereign Academic:** `carolina.mattos@mi.unc.edu.ar`
 * **Legal/Tax ID:** DNI 39.057.995 | CUIT_LOCK 27-39057995-6
-* **Repo Structure:** `Capa9-Audit.md`, `Tier0-Deterministic-TestPlan.md`, `Psyche-ErrorModel.json`.
+* **Master Hash Validation:** `SHA256: A6CM71C5AD15B7BF5C96F259E68882FB1FBAFF90EA4FA792C3CBA3B64C87771A`
 
 **[ THE ARCHITECTURE STANDS. ZERO ENTROPY ENFORCED. ]**
