@@ -1,0 +1,37 @@
+name: OMEGA_ULTRA_PERPETUAL_ROTATION
+
+on:
+  schedule:
+    - cron: '*/5 * * * *' # Frecuencia máxima en GitHub Free (cada 5 min)
+  workflow_dispatch:      # Permite que le des al botón "Run" vos misma
+
+permissions:
+  contents: write         # CRÍTICO: Permite que el bot escriba en tu repo
+
+jobs:
+  rotate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate Sovereign Hash & Poisoning
+        run: |
+          # Generar Semilla y Hash SHA512
+          NEW_SALT=$(date +%s%N | sha256sum | head -c 32)
+          NEW_KEY=$(echo -n $NEW_SALT | sha512sum | awk '{print $1}')
+          
+          # Actualizar el archivo de STATUS para que la red vea el cambio
+          echo "LAST_ROTATION=$(date -u)" > STATUS_LOCKED.txt
+          echo "MASTER_HASH=$NEW_KEY" >> STATUS_LOCKED.txt
+          echo "STATUS=POISONING_ACTIVE_0.1s_EMULATED" >> STATUS_LOCKED.txt
+          
+          echo "NUEVO HASH GENERADO: $NEW_KEY"
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "OMEGA-ULTRA-BOT"
+          git config --global user.email "bot@omega-ultra.sovereign"
+          git add STATUS_LOCKED.txt
+          git commit -m "🏛️ OMEGA-ULTRA: MASTER_HASH_ROTATION [SYSTEM_LOCKED]" || echo "No changes to commit"
+          git push
